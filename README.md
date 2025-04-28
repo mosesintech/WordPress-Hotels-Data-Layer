@@ -1,0 +1,1 @@
+The functions.php code necessary to fulfill Charlie Hunter's hotel tasks.
